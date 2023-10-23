@@ -7,8 +7,8 @@ to derive insights and suggest strategies for better segmentation based on the p
 
 ## Data
 Data includes over 3 million rows of open-source real data about Instacart's 
- * [orders
- * products](https://s3.amazonaws.com/coach-courses-us/public/courses/data-immersion/A4/A4_Data_Assets/4.3_orders_products.zip)
+ * orders
+ * [products](https://s3.amazonaws.com/coach-courses-us/public/courses/data-immersion/A4/A4_Data_Assets/4.3_orders_products.zip)
  * [departments](https://s3.amazonaws.com/coach-courses-us/public/courses/data-immersion/A4/A4_Data_Assets/4.4_departments.zip)
 This dataset was also used
  * [order_products_prior](https://s3.amazonaws.com/coach-courses-us/public/courses/data-immersion/A4/A4_Data_Assets/4.6_orders_products_prior.zip)
