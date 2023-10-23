@@ -22,6 +22,6 @@ Link for Data Dictionary can be found in [Project Brief](/Project-Management/Pro
 ## Tools and project deliverables
 For this project I used **Python** and this libraries
  * *pandas* and *numpy* for data analysis
- * *seaborn* and *mathplotlib-pyplot* for data visualizations
+ * *seaborn* and *matplotlib-pyplot* for data visualizations
 
 [Final report](/Send-to-Client/Final-Report.xlsx) for a client was prepared in *Excel*.
