@@ -1,4 +1,4 @@
-# CF-Instacart-Python
+# Instacart
 Data analysis project using Python for existing company Instacart, an online grocery store that operates through an app. For purpose of this project fictive data about customers was added.
 
 ## Objective
